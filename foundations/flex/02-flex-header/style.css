@@ -2,8 +2,9 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
+  padding: 8px;
 }
 
 .logo {
@@ -21,7 +22,9 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  gap: 24px;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
 }
 
 a {
