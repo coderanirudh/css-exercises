@@ -10,6 +10,7 @@ img {
 .container-title {
   display: flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 .title {
@@ -18,7 +19,7 @@ img {
 }
 
 .container-content {
-  
+  display: flex;
 }
 
 /* do not edit this footer */
